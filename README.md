@@ -51,6 +51,30 @@
 > >      3. Fanta Uva;
 > >      4. Fanta Laranja;
 > >      5. Guaraná.
+> >
+> > ---
+> >
+> > ### Inserindo links:
+> >
+> > __Vídeo__
+> > 
+> > [Guia da Linguagem Markdown - Curso de Git e GitHub](https://www.youtube.com/live/LntSB-gl-ZI?si=2UbSzVVxspl7Fjt5)
+> > 
+> > 
+> > __Músicas__
+> >
+> > [Crystals](https://youtu.be/5CGW2VYU6-A?si=nDh8JpDDZupCUPHG)
+> >
+> > [POOR (Slowed + Reverb)](https://youtu.be/Actcer0fqPM?si=yfx8U0AGyKhMwwDu)
+> >
+> > ---
+> >
+> > ### Inserindo imagens:
+> >
+> > ![AnimeArt2jpg](https://github.com/user-attachments/assets/f936a858-f9d6-477b-8a26-d722b1b7e27c)
+> > ![AnimeArt1](https://github.com/user-attachments/assets/f00b310b-4f88-467a-b749-dd461326e8ad)
+> > ![AnimeArt0](https://github.com/user-attachments/assets/2292127d-4281-40c1-ba9b-0f59547df224)
+
 
 
 ---
@@ -92,7 +116,7 @@ class Matriz(metaclass=MetaMatriz):
 
 - [ ] Comprar pão;
 - [x] Comprar mortadela;
-- [ ] Fazer massagem na minha esposa;
+- [ ] Fazer massagem na minha mulher;
 - [x] Fazer compras;
 - [x] Caminhar;
 - [ ] Se matar de estudar;
